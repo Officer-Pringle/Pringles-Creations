@@ -7,6 +7,12 @@
 ## USES
 
     This is a Public Repository, But even though it is public any Stolen and Reuploaded code will be met with imediate action.
+    
     You are free to use these files as reference, or to learn from.
+    
+    If you would like to Update, Change or Contribute in someway (For Some Reason) you can make a pull request
 
     My Content is Protected under a Creative Commons License.
+
+## NOTICE
+    Some Items in here have never been released, Then stating that the items may not be finished, Broken, or very Outdated! 
