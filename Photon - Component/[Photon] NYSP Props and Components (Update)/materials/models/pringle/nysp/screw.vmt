@@ -1,0 +1,26 @@
+"vertexlitgeneric"
+{
+
+	"$basetexture" "models/pringle/nysp/screw"
+	"$bumpmap" "models/pringle/shared/skin_nm"
+
+	"$normalmapalphaenvmapmask" 1
+	"$phong" "1"
+	"$phongexponent" "2"
+	"$phongboost" "0.01"	
+	"$phongfresnelranges"	"[1 1 1]"
+	"$nodecal" "1"
+	"$colorfix" "{255 255 255}"
+	"Proxies"
+	{
+		"Equals"
+		{
+			srcVar1 $colorfix
+			resultVar	$color
+		}
+	}
+}
+
+
+
+

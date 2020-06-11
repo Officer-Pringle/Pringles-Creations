@@ -1,0 +1,31 @@
+"VertexLitGeneric"
+{
+
+	$basetexture "models/perrynsvehicles/ford_f150/skin10"
+	$nocull "1"
+	$bumpmap "null-bumpmap"
+	"$nodecal" "1"
+	"$phong" "1"
+	"$phongexponent" "15"
+	"$phongboost"	"1"
+	"$envmap" "env_cubemap"
+	"$envmapfresnel" "1.2"
+	"$phongfresnelranges" "[.3 .5 3]"
+	"$envmaptint" "[0.03 0.03 0.03]"
+	"$phongfix" "{20 20 20}"
+
+	Proxies
+	{
+		Equals
+		{
+			srcVar1	$color
+			resultVar	$phongtint
+		}
+		Add
+		{
+			srcVar1 $phongfix
+			srcVar2 $phongtint
+			resultVar $phongtint
+		}
+	}
+}

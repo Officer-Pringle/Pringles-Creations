@@ -1,0 +1,21 @@
+"VertexLitGeneric"
+{
+
+	"$basetexture" "models/pringle/nysp/nysp_plate"
+	"$bumpmap" "models/pringle/nysp/nysp_plate_n"
+	"$normalmapalphaenvmapmask" 1
+	"$phong" "1"
+	"$phongexponent" "3"
+	"$phongboost" "0.01"	
+	"$phongfresnelranges"	"[1 1 1]"
+	"$nodecal" "1"
+	"$colorfix" "{0,0,0}"
+	"Proxies"
+	{
+		"Equals"
+		{
+			srcVar1 $colorfix
+			resultVar	$color
+		}
+	}
+}

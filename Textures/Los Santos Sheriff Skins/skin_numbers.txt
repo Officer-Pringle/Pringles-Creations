@@ -1,0 +1,67 @@
+// LOS SANTOS SHERIFF PACK SKIN NUMBERS //
+
+
+// LW Chev Impala //
+
+- Skin 10 B/W
+- Skin 11 White
+
+// LW Chev Tahoe // 
+
+- Skin 10 BW
+- Skin 9 W
+
+// LW 2015 Charger // 
+
+- Skin 6 BW
+- Skin 5 W
+
+// Perryns F-150 // 
+
+Skin 10 BW
+Skin 9 W
+
+// SM 2015 Charger // 
+Skin 10 BW
+Skin 9 W
+
+// SM 14 Explorer //
+Skin 5 BW
+Skin 6 W
+
+// SM 17 Explorer // 
+
+Skin 5 BW
+Skin 4/6 W
+
+// SM 2015 Tahoe // 
+
+Skin 5 BW
+Skin 10 W
+
+// TDM 12 Charger // 
+
+Skin 18 BW
+Skin 19 W
+
+// TDM 08 Charger // 
+Skin 19 BW
+Skin 20 W
+
+// TDM Old Vic // 
+Skin 19 BW
+Skin 20 W
+
+// TDM 11 Vic // 
+Skin 3 BW
+Skin 4 W
+
+// TDM Taurus // 
+
+Skin 6 BW
+Skin 7 W
+
+// Talon f-150 // 
+
+Skin 9 BW
+Skin 10 W

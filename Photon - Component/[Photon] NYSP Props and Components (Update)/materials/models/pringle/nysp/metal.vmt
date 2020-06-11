@@ -1,0 +1,10 @@
+"vertexlitgeneric"
+{
+	"$basetexture" 		"models/pringle/nysp/metal"
+	"$surfaceprop" 		"metal"
+	"$envmaptint" 		"[0.5 0.5 0.5]"
+	"$bumpmap" 		"models/pringle/nysp/metal_bm"
+	"$envmap" 		"env_cubemap"
+	"$envmapsaturation" 	"0.3"
+	"$model" 		"1"
+}

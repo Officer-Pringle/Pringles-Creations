@@ -1,2 +1,12 @@
 # Pringles-Creations
  A Repository for Pringles Photon Creations
+
+## Why
+    This was made for Pringle to upload any Past, Present or Future Creations that ive worked on or working on currently
+
+## USES
+
+    This is a Public Repository, But even though it is public any Stolen and Reuploaded code will be met with imediate action.
+    You are free to use these files as reference, or to learn from.
+
+    My Content is Protected under a Creative Commons License.

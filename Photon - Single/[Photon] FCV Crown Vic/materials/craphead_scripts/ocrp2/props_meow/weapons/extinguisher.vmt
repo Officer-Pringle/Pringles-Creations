@@ -1,0 +1,20 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "craphead_scripts/ocrp2/props_meow/weapons/extinguisher"
+	"$bumpmap"     "craphead_scripts/ocrp2/props_meow/weapons/extinguisher_normal"
+	"$normalmapalphaenvmapmask" 1
+
+	"$phong"                    1
+	"$phongboost"               1.3
+	"$phongfresnelranges"       "[1 2 4]"
+	"$phongexponent"            "18"
+    "$phongalbedotint"          1
+	
+
+
+	"$halflambert" "1"
+
+//	"$rimlight"                 1
+	"$rimlightexponent"         10
+	"$rimlightboost"            .5
+}
